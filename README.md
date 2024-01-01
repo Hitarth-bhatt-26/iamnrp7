@@ -7,4 +7,4 @@
   <img src="https://profile-counter.glitch.me/IAMNRP7/count.svg" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=iamnrp7&color=brightgreen)
+
